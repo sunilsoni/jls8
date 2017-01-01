@@ -1,4 +1,4 @@
-package com.jls.chapter9_3;
+package com.jls.chapter9.examples9_3;
 
 //Example 9.3-1. Ambiguous Inherited Fields
 interface BaseColors {

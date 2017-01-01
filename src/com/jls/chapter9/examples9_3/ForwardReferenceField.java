@@ -1,4 +1,4 @@
-package com.jls.chapter9_3;
+package com.jls.chapter9.examples9_3;
 
 //Example 9.3.1-1. Forward Reference to a Field
 interface ForwardReferenceField {

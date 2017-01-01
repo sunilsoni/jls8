@@ -1,4 +1,4 @@
-package com.jls.chapter9_4;
+package com.jls.chapter9.examples9_4;
 
 public interface StaticMethodDeclarations {
 
