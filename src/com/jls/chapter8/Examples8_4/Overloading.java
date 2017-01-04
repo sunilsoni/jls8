@@ -1,7 +1,15 @@
 package com.jls.chapter8.Examples8_4;
 
+import java.util.ArrayList;
+import java.util.List;
+
 //Example 8.4.9-2. Overloading, Overriding, and Hiding
 public class Overloading {
+	public static void main(String[] args) {
+		List<String> list = new ArrayList<String>();
+		list.add("Hi");
+		String x = list.get(0);
+	}
 
 }
 
